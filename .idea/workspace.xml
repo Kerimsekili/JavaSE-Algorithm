@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="252de6f6-2893-411c-acd2-676ae9518ebb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FootballPlayer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/algorithms/footballplayer/FoolballPlayerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/algorithms/footballplayer/FootballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/algorithms/montecarlosimulation/MonteCarloPi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/algorithms/primenumber/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/algorithms/sieveoferatostheles/SieveOfErastostheles.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DMho9iS1JQ4rP38ibhBiFwLbVc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SieveOfErastostheles">
+    <configuration name="MonteCarloPi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase.montecarlosimulation.MonteCarloPi" />
+      <module name="FootballPlayer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javase.montecarlosimulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase.algorithms.primenumber.PrimeNumber" />
+      <module name="FootballPlayer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javase.algorithms.primenumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SieveOfErastostheles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase.algorithms.sieveoferatostheles.SieveOfErastostheles" />
+      <module name="FootballPlayer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javase.algorithms.sieveoferatostheles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="src.javase.footballplayer.FoolballPlayerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.javase.footballplayer.FoolballPlayerTest" />
+      <module name="FootballPlayer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SieveOfErastostheles" />
+        <item itemvalue="Application.PrimeNumber" />
+        <item itemvalue="Application.MonteCarloPi" />
+        <item itemvalue="Application.src.javase.footballplayer.FoolballPlayerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="252de6f6-2893-411c-acd2-676ae9518ebb" name="Changes" comment="" />
+      <created>1660515035036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660515035036</updated>
+      <workItem from="1660515036371" duration="1468000" />
+      <workItem from="1660517961679" duration="408000" />
+      <workItem from="1660549013673" duration="26000" />
+      <workItem from="1660549478563" duration="28000" />
+      <workItem from="1660829237805" duration="280000" />
+      <workItem from="1660829617303" duration="4054000" />
+      <workItem from="1660902833267" duration="176000" />
+      <workItem from="1661019928584" duration="1592000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
